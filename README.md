@@ -1,4 +1,21 @@
-### Hi there 👋
+### 👋 Hi there 
+
+- [x] self-proclaimed back-end python engineer
+- [x] love to code
+
+
+
+## 🌱 I’m currently learning ...
+
+- [x] deep learning stuff
+- [ ] RESTful API with flask/fastapi
+- [ ] kubernates deployment
+
+
+## ⚡ Disclaimer
+
+This repository is still work in progress.
+
 
 <!--
 **knabenphysik/knabenphysik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
