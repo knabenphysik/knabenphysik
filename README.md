@@ -4,12 +4,15 @@
 - [x] love to code
 
 
-
 ## 🌱 I’m currently learning ...
 
 - [x] deep learning stuff
 - [ ] RESTful API with flask/fastapi
 - [ ] kubernates deployment
+
+
+## 😄 Small Contribution
+- [x] [for the country](https://www.hpcg-benchmark.org/custom/index.html?lid=155&slid=303#Twistcode)
 
 
 ## ⚡ Disclaimer
