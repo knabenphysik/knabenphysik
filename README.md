@@ -8,7 +8,7 @@
 
 - [x] deep learning stuff
 - [ ] NLP
-- [ ] RESTful API with flask/fastapi
+- [x] RESTful API with flask/fastapi
 - [ ] kubernates deployment
 
 ## Familiar with these Languages/Frameworks ...
@@ -31,5 +31,5 @@
 This repository is still work in progress.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knabenphysik&show_icons=true&theme=default&hide=issues&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=knabenphysik&show_icons=true&theme=dracula&hide=issues&count_private=true">
 </p>
