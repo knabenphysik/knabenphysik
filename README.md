@@ -12,7 +12,7 @@
 - [ ] NLP
 - [ ] kubernates deployment
 
-## Familiar with ...
+## :pinching_hand: :writing_hand: Familiar with ...
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA-CUDA0?style=for-the-badge&logo=nvidia&logoColor=white)
