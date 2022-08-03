@@ -1,14 +1,15 @@
-### 👋 Hi there 
+### 👋 About Me 
 
-- [x] self-proclaimed back-end python engineer
+- [x] self-proclaimed AI Engineer 
 - [x] love to code
+- [x] mediocre scientist who likes to work with GPUs, AI and *Particle Physics*
 
 
 ## 🌱 I’m currently learning ...
 
 - [x] deep learning stuff
-- [ ] NLP
 - [x] RESTful API with flask/fastapi
+- [ ] NLP
 - [ ] kubernates deployment
 
 ## Familiar with ...
