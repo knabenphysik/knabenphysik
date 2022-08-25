@@ -4,6 +4,8 @@
 - [x] love to code
 - [x] mediocre scientist who likes to work with GPUs, AI and *Particle Physics*
 
+![](https://visitor-badge.glitch.me/badge?page_id=knabenphysik) ![GitHub followers](https://img.shields.io/github/followers/knabenphysik) ![GitHub User's stars](https://img.shields.io/github/stars/knabenphysik)
+
 
 ## 🌱 I’m currently learning ...
 
@@ -36,4 +38,5 @@ This repository is still work in progress.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=knabenphysik&show_icons=true&theme=dracula&hide=issues&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knabenphysik&layout=compact&theme=dracula" />
 </p>
