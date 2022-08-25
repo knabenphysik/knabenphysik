@@ -1,5 +1,7 @@
 ### 👋 About Me 
 
+I’m currently working as a AI Engineer at [Twistcode](https://twistcode.com/) in Cyberjaya (Malaysia). My main focus is to develop machine learning models applied in healthcare and many others.
+
 - [x] self-proclaimed AI Engineer 
 - [x] love to code
 - [x] mediocre scientist who likes to work with GPUs, AI and *Particle Physics*
