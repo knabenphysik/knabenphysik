@@ -40,5 +40,4 @@ This repository is still work in progress.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=knabenphysik&show_icons=true&theme=dracula&hide=issues&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knabenphysik&layout=compact&theme=dracula" />
 </p>
