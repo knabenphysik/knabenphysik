@@ -1,6 +1,6 @@
 ### 👋 About Me 
 
-I’m currently working as a Deep Learning Engineer at [Twistcode](https://twistcode.com/) in Cyberjaya (Malaysia). My main focus is to develop machine learning models applied in healthcare and many others.
+I’m currently working as a Machine Learning Engineer at [HT Consulting](https://htasia.com/) in Petaling Jaya (Malaysia). My main focus is to develop machine learning models applied in computer vision problems.
 
 - [x] self-proclaimed Deep Learning Engineer 
 - [x] love to code
