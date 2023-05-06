@@ -31,7 +31,7 @@ I’m currently working as a Machine Learning Engineer at [HT Consulting](https:
 
 
 ## 😄 Small Contribution
-- [x] [for the country](https://www.hpcg-benchmark.org/custom/index.html?lid=155&slid=303#Twistcode)
+- [x] [for the country](https://hpcg-benchmark.org/custom/index.html%3Flid=155&slid=299.html#Twistcode)
 
 
 ## ⚡ Disclaimer
