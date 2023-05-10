@@ -15,6 +15,7 @@ I’m currently working as a Machine Learning Engineer at [HT Consulting](https:
 - [x] RESTful API with flask/fastapi
 - [ ] NLP
 - [ ] kubernates deployment
+- [ ] LLM model inferencing & deployment
 
 ## :pinching_hand: :writing_hand: Familiar with ...
 
@@ -31,7 +32,7 @@ I’m currently working as a Machine Learning Engineer at [HT Consulting](https:
 
 
 ## 😄 Small Contribution
-- [x] [for the country](https://hpcg-benchmark.org/custom/index.html%3Flid=155&slid=299.html#Twistcode)
+- [x] [A.D.A.M. Superkomputer for the country](https://hpcg-benchmark.org/custom/index.html%3Flid=155&slid=299.html#Twistcode)
 
 
 ## ⚡ Disclaimer
