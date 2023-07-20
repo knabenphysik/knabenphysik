@@ -1,4 +1,4 @@
-### 👋 About Me 
+### 👋 About Me 👨‍💻
 
 I’m currently working as a Machine Learning Engineer at [HT Consulting](https://htasia.com/) in Petaling Jaya (Malaysia). My main focus is to develop machine learning models applied in computer vision problems.
 
@@ -39,6 +39,6 @@ I’m currently working as a Machine Learning Engineer at [HT Consulting](https:
 
 This repository is still work in progress.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knabenphysik&show_icons=true&theme=dracula&hide=issues&count_private=true">
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=knabenphysik&show_icons=true&hide=issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)](https://github.com/knabenphysik)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knabenphysik&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/knabenphysik)
+
